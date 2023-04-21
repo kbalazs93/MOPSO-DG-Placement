@@ -1,0 +1,4 @@
+#! /bin/sh
+
+./cmpNSGA-II
+./nsga2 0.5 < ./NSGA-II/input_data/OptimalCP.in

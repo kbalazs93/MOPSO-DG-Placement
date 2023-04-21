@@ -1,1 +1,2 @@
 # MOPSO-DG-Placement
+This is a project, where MOPSO and NSGA-II algorithms are used to place and size distributed generators on a radial distribution network. The NSGA-II implementation is forked from the code of Dr. Kalyanmoy Deb at Kanpur Genetic Algorithms Laboratory. Every other source codes, files and scripts are developed by Kőrösi Balázs at Faculty of Technical Sciences Novi Sad as a research project for the Master Thesis.

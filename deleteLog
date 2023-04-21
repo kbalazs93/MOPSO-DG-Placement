@@ -1,0 +1,8 @@
+#! /bin/bash
+
+rm ./output/MOPSO/*
+rm ./output/MOPSO/original/*
+rm ./output/MOPSO/Renewable_Scenario_Graphs/*
+rm ./output/NSGA-II/*
+rm ./output/NSGA-II/original/*
+

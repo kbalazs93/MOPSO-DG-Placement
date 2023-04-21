@@ -1,0 +1,10 @@
+#! /bin/bash
+
+./cmpNSGA-II
+./nsga2 2 1 3 2
+
+# cerr<<"\t1st - load_flow_type 1 - const power, 2 - const current"<<endl;
+# cerr<<"\t2nd - is the first branch a reg transformator? (0-no, 1-yes)"<<endl;
+# cerr<<"\t3rd - Num of DGs"<<endl;
+# cerr<<"\t4th - Type of DGs (1 - only P, 2 - only Q, 3 P,Q)"<<endl;
+# cerr<<"\t5th - [Optional] if you want to use gnu plot (0-no, 1-yes)"<<endl;

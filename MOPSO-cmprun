@@ -1,0 +1,12 @@
+#! /bin/bash
+
+./cmpMOPSO
+./MOPSO-CP 2 6 1 1 3 1
+
+# "\t1st - scenarionum (1-Renewable, long, 2-Dispatchable, short)"<<endl;
+# "\t2nd - switchnum (MSB = activeLosses, middle = VSI, LSB = Voltage deviation)"<<endl;
+# "\t3rd - load_flow_type 1 - const power, 2 - const current"<<endl;
+# "\t4th - is the first branch a reg transformator? (0-no, 1-yes)"<<endl;
+# "Next arguments are only used, when scenarionum == 2"<<endl;
+# "\t5th - Num of DGs"<<endl;
+# "\t6th - Type of DGs (1 - only P, 2 - only Q, 3 P,Q)"<<endl;

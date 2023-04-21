@@ -1,0 +1,8 @@
+/output/*
+/plot.out
+/my_best_particle.txt
+/nsga2
+/MOPSO-CP
+/MOPSO/*.o
+/NSGA-II/*.o
+/NetworkModel/*.o

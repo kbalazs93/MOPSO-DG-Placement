@@ -1,0 +1,5 @@
+#! /bin/bash
+
+g++ -std=c++0x ./NetworkModel/branch.cpp ./NetworkModel/node.cpp ./NetworkModel/network.cpp ./NetworkModel/tempel.cpp ./MOPSO/particle.cpp ./MOPSO/particleswarm.cpp ./MOPSO/repository.cpp ./MOPSO/main.cpp -o MOPSO-CP
+
+

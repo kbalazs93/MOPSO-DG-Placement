@@ -1,0 +1,7 @@
+#! /bin/bash
+
+./deleteLog
+
+./MOPSO-tables
+./NSGA2-tables
+
