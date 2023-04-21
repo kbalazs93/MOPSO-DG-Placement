@@ -1,0 +1,17 @@
+Particle satisfies the constraints of the problem
+Tap changer: 0, nodes: 30, 14, 24   Inj P: 0.716929, 0.95168, 0.747271  Inj Q: 1.07508, 0.430275, 0.340773   Active Losses: 17.6355   VSI: 31.4715
+
+
+
+
+Active Losses range: 17.6355 - 17.6355
+VSI range: 31.4715 - 31.4715
+
+reference active losses: 210.991
+reference active losses: 25.5402
+
+hypervolume: 0
+feasable solutions: 1/1
+spacing: 0
+
+Load Modelling in Power Flow: Constant Power

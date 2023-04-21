@@ -1,0 +1,45 @@
+Repository contains 1 particles
+Fuzzy logic (!!) best value: 1
+Fuzzy logic (!!) best choice: 1
+Vmin_lim = 0.95
+Vmin = 0.988207
+Vmax_lim = 1.05
+Vmax = 1.00791
+FITNESS VALUES:
+	AVTIVE LOSSES: 17.6355 kW
+	VOLTAGE STABILITY INDEX: 31.4715
+	VOLTAGE DEVIATION: 0.19718
+
+
+
+Active losses min: 0.0176355
+Active losses max: 0.0176355
+VSI min: 0.0317748
+VSI max: 0.0317748
+Voltage deviations min:0.19718
+Voltage deviations max:0.19718
+
+REPOSITORY PARTICLE 1
+	CAPACITORS:
+
+	SOLAR GENERATORS:
+
+	WIND GENERATORS:
+
+	DISPACHABLE GENERATORS:
+	NO 1  NODE: 22  P: 0.716929 MW  Q: 1.07508 MVAr
+	NO 2  NODE: 27  P: 0.95168 MW  Q: 0.430275 MVAr
+	NO 3  NODE: 9  P: 0.747271 MW  Q: 0.340773 MVAr
+
+Vmin_lim = 0.95
+Vmin = 0.988207
+Vmax_lim = 1.05
+Vmax = 1.00791
+FITNESS VALUES:
+	AVTIVE LOSSES: 17.6355 kW
+	VOLTAGE STABILITY INDEX: 31.4715
+	VOLTAGE DEVIATION: 0.19718
+
+hypercube: 0
+
+
